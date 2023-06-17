@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2023 Joe Freeman joe@freemansoft.com
+#
+# SPDX-License-Identifier: MIT
+#
 # Can test copy speeds between different drives.  
 # Attmpts to create enough large enough files cancel out disk cache
 # Can run with defaults , edit the file or overwrite with the -parameter options
